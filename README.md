@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JunaidSami269
-- 👀 I’m interested in android devolopment
+- 👀 I’m interested in Web devolopment
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 Recch me here:Junaidsami269@gmail.com
